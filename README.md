@@ -10,7 +10,7 @@ This repository contains App Academy's complete coding curriculum.  Material is 
 * [React][react]
 * [Full-Stack Project][full-stack-project]
 
-
+Randy 
 ### How to use this repo
 
 Within each curriculum topic, material is broken out into days.  After class, you should prepare for the next day by throughly reviewing the following:
